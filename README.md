@@ -12,3 +12,6 @@ website link : https://demoqa.com/
 # Run the automation script:
 #### 1. Open cmd to the project folder
 #### 2. Type this command:  gradle clean test
+# Report View
+![JUnit test_report](https://github.com/user-attachments/assets/b4b4909b-b053-4d46-b3a4-7291eb06412e)
+
